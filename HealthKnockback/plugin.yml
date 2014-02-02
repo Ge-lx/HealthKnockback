@@ -1,4 +1,5 @@
 name: HealthKnockback
-version: 0.1
+version: 1.0
 author: Gelx-
 main: io.github.gelx_.healthknockback.HealthKnockback
+description: Changes the knockback one receives based on their health
